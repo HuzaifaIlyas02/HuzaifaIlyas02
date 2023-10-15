@@ -1,4 +1,4 @@
-[HuzaifaIlyas02](https://github.com/HuzaifaIlyas02)
+(HuzaifaIlyas02)(https://github.com/HuzaifaIlyas02)
 
 # Hello! 🌍 I'm [Huzaifa]
 
