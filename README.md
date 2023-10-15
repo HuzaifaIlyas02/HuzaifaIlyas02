@@ -1,8 +1,8 @@
 <article>
+<div style="text-align: center;">
     <h1>Hello! 👋, I'm Huzaifa</h1>
     <h3>I'm an aspiring Data Engineer exploring big data and cloud solutions.</h3>
-    <a href="https://komarev.com/ghpvc/?username=sallar-ba&label=Profile%20views&color=0e75b6&style=flat">
-    </a>
+</div>
     <ul>
         <li>🌱 I’m currently learning <strong>Google Cloud Platform</strong></li>
     </ul>
