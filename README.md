@@ -1,39 +1,30 @@
-# Hello! 👋, I'm Huzaifa
-
-<p style="text-align: center;">
-    <a href="https://github.com/huzaifailyas02" style="color: #FFFFFF; text-decoration: none;">I'm an aspiring Data Engineer exploring big data and cloud solutions.</a>
-</p>
-
-
-
-
-## 🌱 Current Learning Journey
-
-- **Data Engineering Fundamentals**: Grasping the foundational concepts of data lakes, data warehouses, ETL processes, and real-time data processing.
-- **Google Cloud Platform (GCP)**: Exploring the suite of tools GCP offers for data engineering, including BigQuery, Dataflow, and Pub/Sub.
-- **Stream Processing**: Getting acquainted with real-time data processing using tools like Apache Kafka and Apache Beam.
-
-## 💼 Tools & Technologies
-
-- **Languages**: Python, SQL
-- **Databases**: PostgreSQL, MongoDB
-- **Tools**: Apache Airflow, Apache Kafka
-- **Cloud**: Google Cloud Platform (GCP)
-
-!()(URL_TO_GCP_ICON) ![Python Icon](URL_TO_PYTHON_ICON) ...
-
-## 🚀 Goals for 2023
-
-- [ ] Obtain the Google Cloud Professional Data Engineer Certification.
-- [ ] Build and deploy a real-time data processing pipeline using GCP tools.
-- [ ] Contribute to open-source data engineering projects.
-
-## 🔍 Where to Find Me
-
-- 💼 [LinkedIn](YOUR_LINKEDIN_PROFILE_LINK)
-- 📝 [Medium](YOUR_MEDIUM_PROFILE_LINK) - I write articles here!
-- 📧 Email: [your.email@example.com](mailto:your.email@example.com)
-
----
-
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+<article>
+    <h1>Hello! 👋, I'm Huzaifa</h1>
+    <h3>I'm an aspiring Data Engineer exploring big data and cloud solutions.</h3>
+    <a href="https://komarev.com/ghpvc/?username=sallar-ba&label=Profile%20views&color=0e75b6&style=flat">
+    </a>
+    <ul>
+        <li>🌱 I’m currently learning <strong>Google Cloud Platform</strong></li>
+    </ul>
+    <h3>Reach out to me:</h3>
+    <p>
+        <a href="https://twitter.com/m_huzaifa_25"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/twitter.svg" alt="HuzaifaIlyas02" height="30" width="40"></a>
+        <a href="https://www.linkedin.com/in/huzaifa-ilyas/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HuzaifaIlyas02" height="30" width="40"></a>
+        <a href="https://stackoverflow.com/users/22700112/muhammad-huzaifa-ilyas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-huzaifa-ilyas" height="30" width="40"></a>
+        <a href="https://www.kaggle.com/huzaifai"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huzaifai" height="30" width="40"></a>
+    </p>
+    <h3>Languages and Tools:</h3>
+    <p>
+        <a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"></a>
+        <a href="https://www.w3schools.com/cs/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"></a>
+        <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"></a>
+        <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"></a>
+        <a href="https://www.devicons/devicon/master/icons/linux/linux-original.svg" rel="nofollow"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"></a>
+        <a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"></a>
+        <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"></a>
+        <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"></a>
+        <a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"></a>
+        <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"></a>
+        <a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"></a>
+    </p>
+</article>
