@@ -8,7 +8,7 @@
     </ul>
     <h3>Reach out to me:</h3>
     <p>
-        <a href="https://twitter.com/m_huzaifa_25"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/twitter.svg" alt="HuzaifaIlyas02" height="30" width="40"></a>
+        <a href="https://twitter.com/m_huzaifa_25"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-alt.svg" alt="Twitter Logo" height="30" width="40"></a>
         <a href="https://www.linkedin.com/in/huzaifa-ilyas/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="HuzaifaIlyas02" height="30" width="40"></a>
         <a href="https://stackoverflow.com/users/22700112/muhammad-huzaifa-ilyas"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="muhammad-huzaifa-ilyas" height="30" width="40"></a>
         <a href="https://www.kaggle.com/huzaifai"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="huzaifai" height="30" width="40"></a>
