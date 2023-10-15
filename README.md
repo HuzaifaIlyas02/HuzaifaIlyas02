@@ -1,4 +1,6 @@
-## [HuzaifaIlyas02](https://github.com/HuzaifaIlyas02)
+<a href="https://github.com/huzaifailyas02" style="color: black; text-decoration: none;">
+  <span style="color: blue;">huzaifailyas02</span>
+</a>
 
 # Hello! 🌍 I'm [Huzaifa]
 
