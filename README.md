@@ -1,4 +1,4 @@
-![Banner Image](URL_TO_YOUR_BANNER)
+[HuzaifaIlyas02](https://github.com/HuzaifaIlyas02)
 
 # Hello! 🌍 I'm [Huzaifa]
 
@@ -17,7 +17,7 @@ A budding Data Engineer diving deep into the world of big data, cloud services, 
 - **Tools**: Apache Airflow, Apache Kafka
 - **Cloud**: Google Cloud Platform (GCP)
 
-![GCP Icon](https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-64.png) ![Python Icon](https://www.python.org/static/img/python-logo@2x.png) ...
+!()(URL_TO_GCP_ICON) ![Python Icon](URL_TO_PYTHON_ICON) ...
 
 ## 🚀 Goals for 2023
 
