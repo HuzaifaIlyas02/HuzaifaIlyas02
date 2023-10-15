@@ -1,10 +1,11 @@
-<a href="https://github.com/huzaifailyas02" style="color: black; text-decoration: none;">
-  <span style="color: blue;">huzaifailyas02</span>
-</a>
+# Hello! 👋, I'm Huzaifa
 
-# Hello! 🌍 I'm [Huzaifa]
+<p style="text-align: center;">
+    <a href="https://github.com/huzaifailyas02" style="color: #FFFFFF; text-decoration: none;">I'm an aspiring Data Engineer exploring big data and cloud solutions.</a>
+</p>
 
-A budding Data Engineer diving deep into the world of big data, cloud services, and scalable solutions. 🚀
+
+
 
 ## 🌱 Current Learning Journey
 
