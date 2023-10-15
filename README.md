@@ -1,6 +1,6 @@
 ![Banner Image](URL_TO_YOUR_BANNER)
 
-# Hello World! 🌍 I'm [Your Name]
+# Hello! 🌍 I'm [Huzaifa]
 
 A budding Data Engineer diving deep into the world of big data, cloud services, and scalable solutions. 🚀
 
@@ -17,7 +17,7 @@ A budding Data Engineer diving deep into the world of big data, cloud services, 
 - **Tools**: Apache Airflow, Apache Kafka
 - **Cloud**: Google Cloud Platform (GCP)
 
-![GCP Icon](URL_TO_GCP_ICON) ![Python Icon](URL_TO_PYTHON_ICON) ...
+![GCP Icon](https://simpleicons.org/icons/googlecloud.svg) ![Python Icon](https://simpleicons.org/icons/python.svg) ...
 
 ## 🚀 Goals for 2023
 
