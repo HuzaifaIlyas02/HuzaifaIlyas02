@@ -1,8 +1,6 @@
 <article>
-<div style="text-align: center;">
-    <h1>Hello! 👋, I'm Huzaifa</h1>
-    <h3>I'm an aspiring Data Engineer exploring big data and cloud solutions.</h3>
-</div>
+    <h1 style= "text-align: center;">Hello! 👋, I'm Huzaifa</h1>
+<h3 style="text-align: center;">I'm an aspiring Data Engineer exploring big data and cloud solutions.</h3>
     <ul>
         <li>🌱 I’m currently learning <strong>Google Cloud Platform</strong></li>
     </ul>
