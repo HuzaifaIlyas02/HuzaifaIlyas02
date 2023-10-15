@@ -17,8 +17,7 @@ A budding Data Engineer diving deep into the world of big data, cloud services, 
 - **Tools**: Apache Airflow, Apache Kafka
 - **Cloud**: Google Cloud Platform (GCP)
 
-![GCP Icon](https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-64.png) ![Python Icon](https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/267_Python_logo-64.png
-) ...
+![GCP Icon](https://cdn1.iconfinder.com/data/icons/google-s-logo/150/Google_Icons-18-64.png) ![Python Icon](https://www.python.org/static/img/python-logo@2x.png) ...
 
 ## 🚀 Goals for 2023
 
