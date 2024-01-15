@@ -1,13 +1,16 @@
-# 💫 About Me:
-## 🔭 **I’m currently working on:**  
+## Hey, I'm Huzaifa 👋🏽 
+I'm a 21-year-old developer based in Pakistan, and I'm passionate about crafting digital experiences.
+
+
+### 🔭 **I’m currently working on:**  
 Improving my skills in computer vision and backend development.
-## 👯 **I’m looking to collaborate on:**  
+### 👯 **I’m looking to collaborate on:**  
 Fullstack projects, Computer Vision, Cloud Services
-## 🌱 **I’m currently learning:**
+### 🌱 **I’m currently learning:**
 Advanced AWS Services and Google Cloud Platform.
-## 💬 **Ask me about:**  
+### 💬 **Ask me about:**  
 `React`, `AWS`, `Python`, `Flask` and any general software development questions.
-## ✨ **Fun fact:**  
+### ✨ **Fun fact:**  
 I love to explore big data and cloud solutions
 
 
