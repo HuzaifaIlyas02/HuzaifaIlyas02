@@ -7,7 +7,7 @@ Fullstack projects, Computer Vision, Cloud Services
 Advanced AWS Services and Google Cloud Platform.
 ## 💬 **Ask me about:**  
 `React`, `AWS`, `Python`, `Flask` and any general software development questions.
-## **Fun fact:**  
+## ✨ **Fun fact:**  
 I love to explore big data and cloud solutions
 
 
