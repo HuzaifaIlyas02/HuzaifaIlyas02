@@ -1,5 +1,14 @@
 # 💫 About Me:
-🔭 **I’m currently working on:**  <br>Improving my skills in computer vision and backend development.<br><br>👯 **I’m looking to collaborate on:**  <br>Fullstack projects, Computer Vision, Cloud Services<br><br>🌱 **I’m currently learning:**  <br>Advanced AWS Services and Google Cloud Platform.<br><br>💬 **Ask me about:**  <br>React, AWS, Python, Flask and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love to explore big data and cloud solutions
+## 🔭 **I’m currently working on:**  
+Improving my skills in computer vision and backend development.
+## 👯 **I’m looking to collaborate on:**  
+Fullstack projects, Computer Vision, Cloud Services
+## 🌱 **I’m currently learning:**
+Advanced AWS Services and Google Cloud Platform.
+## 💬 **Ask me about:**  
+`React`, `AWS`, `Python`, `Flask` and any general software development questions.
+## **Fun fact:**  
+I love to explore big data and cloud solutions
 
 
 ## 🌐 Socials:
