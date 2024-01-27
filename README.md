@@ -29,8 +29,8 @@
 <table>
     <tr>
         <td colspan="2" rowspan="2">
-            <a href = "https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com/?user=huzaifailyas02&theme=blueberry_duo">
+            <a href = "https://i.imgur.com/bUrsjlp.png">
+        <img src="https://streak-stats.demolab.com/?user=huzaifailyas02&theme=blue-navy	">
             </a>
         </a>
         </td>
