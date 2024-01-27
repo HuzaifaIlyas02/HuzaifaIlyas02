@@ -30,7 +30,7 @@
     <tr>
         <td colspan="2" rowspan="2">
             <a href = "https://i.imgur.com/bUrsjlp.png">
-        <img src="https://streak-stats.demolab.com/?user=huzaifailyas02&theme=blue-navy	">
+        <img src="https://streak-stats.demolab.com/?user=huzaifailyas02&theme=highcontrast">
             </a>
         </a>
         </td>
