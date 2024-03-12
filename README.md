@@ -25,7 +25,7 @@
 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/m_huzaifa_25) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/huzaifa-ilyas/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22700112/muhammad-huzaifa-ilyas) [![Mail](https://img.shields.io/badge/Mail-%23D14836.svg?logo=mail.ru&logoColor=white)](mailto:huzaifailyas02@outlook.com)
 
-<div>
+<!-- <div>
     <h2 align=left> Github Stats</h2>
 </div>
 <table>
@@ -39,4 +39,4 @@
         </a>
         </td>
     </tr>
-</table>
+</table> -->
