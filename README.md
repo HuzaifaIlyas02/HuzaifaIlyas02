@@ -11,7 +11,7 @@
 
 # Tech Stack:
 
-**Frontend Development:** `React` `JavaScript` `Material-UI`
+**Frontend Development:** `React` `JavaScript` `Material-UI` `TypeScript`
 
 **Version Control:** `Git` `GitLab`
 
