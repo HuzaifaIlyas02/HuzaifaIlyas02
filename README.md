@@ -13,11 +13,11 @@
 
 # Tech Stack:
 
-**Frontend Development:** `React` `JavaScript` `Material-UI` `TypeScript` `Flutter`
+**Frontend Development:** `React` `Next` `Material-UI` `TypeScript` `Flutter`
 
 **Version Control:** `Git` `GitLab`
 
-**Backend Development:**  `Firebase` `Node`
+**Backend Development:**  `Firebase` `Node` `Nest`
 
 **Testing:** `Postman`
 
